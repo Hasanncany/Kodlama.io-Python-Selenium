@@ -69,7 +69,7 @@ tamamlandi = %75
 
 Kurslarım = ["(2023) Yazılım Geliştirici Yetiştirme Kampı - Python & Selenium","(2022) Yazılım Geliştirici Yetiştirme Kampı - JAVA"]
 
-**************************************************************************************************************************************************************************
+*************************************************************************************************************************************************************************
 
 3) Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
 
