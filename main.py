@@ -28,7 +28,7 @@ isim2 = "Hasancan Yıldırım"  => # Hasancan Yıldırım
 Burada isim ve isim2 Değişkenleri String veri tipidir. Her iki değişkende bize aynı sonucu verecektir.
 
 Not: String veri tipleri değiştirilemezler.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 c => Boolean veri tipi: Sadece iki değerden oluşur: True (doğru) veya False (yanlış).
 Bu veri tipi, karar verme yapısında ve mantıksal işlemlerde kullanılır.
